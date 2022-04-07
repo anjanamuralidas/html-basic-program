@@ -1,0 +1,29 @@
+#d1 {
+    background-color: brown;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+
+#h2 {
+    color: blue;
+}
+
+#h2:hover {
+    color: darkgreen;
+}
+
+#d1:hover {
+    background-color: yellow;
+}
+
+#img {
+    height: 300px;
+    width: 400px;
+    background-image: url(b.webp);
+}
+
+#img:hover {
+    height: 300px;
+    width: 400px;
+    background-image: url(flowers.webp);
+}
